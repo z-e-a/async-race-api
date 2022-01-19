@@ -8,7 +8,10 @@
   },
   "author": "mikhama",
   "license": "MIT",
-  "devDependencies": {
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
     "json-server": "^0.16.3"
   }
 }
